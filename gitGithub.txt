@@ -1,0 +1,10 @@
+git installation
+
+stages:
+U-untracked
+A-added or staged
+C-committed
+
+commands you need to know -
+git status -s => to know current status of unstaged and staged files
+git log --oneline => to know current status of saved points
