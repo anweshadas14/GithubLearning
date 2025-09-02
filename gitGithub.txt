@@ -10,3 +10,5 @@ git status -s => to know current status of unstaged and staged files
 git log --oneline => to know current status of saved points
 
 Leveling up my skills now
+
+Learning branching in github
