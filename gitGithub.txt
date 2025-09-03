@@ -12,3 +12,6 @@ git log --oneline => to know current status of saved points
 Leveling up my skills now
 
 Learning branching in github
+
+Learning the problem when main and branch has same number of lines- then it causes a problem while merging 
+how to handle that
