@@ -1,3 +1,4 @@
 Leveling up my skills now
 Learning branching in github
 Learning the problem when main and branch has same number of lines- then it causes a problem while merging - so fixing this
+Adding new line to the branch- to analyze the problem
